@@ -48,8 +48,8 @@ In summary, the SQL query transforms raw Google Analytics data into a meaningful
 
 
 
-# To conclude, I will provide the link to access the project permissions. These permissions should be placed within the directory "test_4/airflow-docker". 
+To conclude, I will provide the link to access the project permissions. These permissions should be placed within the directory "test_4/airflow-docker". 
 
 https://drive.google.com/file/d/1Il1x1D_41s1GZwu1FdHd17s_cZxCfmTn/view?usp=drive_link
 
-# Thank you very much for your kind attention.
+Thank you very much for your kind attention.
