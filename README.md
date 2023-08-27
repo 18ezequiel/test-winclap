@@ -33,3 +33,8 @@ Here, I'll walk you through the HTML configuration I implemented on the website 
 
 Below, you'll find a link to a video showcasing how the configured DAG works in Airflow:
 
+https://www.youtube.com/watch?v=Jt3DwV9nqSQ
+
+# Week-over-Week Report:
+
+![Captura desde 2023-08-27 02-02-50](https://github.com/18ezequiel/test-winclap/assets/107936664/2fb964f5-5d71-4e60-93c3-c337e94a7490)
