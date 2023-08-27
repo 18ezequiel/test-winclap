@@ -18,6 +18,7 @@ I'll explain how I managed the access to the Google Analytics account to ensure 
 ![Captura desde 2023-08-27 00-52-30](https://github.com/18ezequiel/test-winclap/assets/107936664/cccdbf95-dc68-4548-81a1-bef57e96ef11)
 
 Property ID
+
 ![Captura desde 2023-08-27 00-53-29](https://github.com/18ezequiel/test-winclap/assets/107936664/9d6e9afc-a5c2-4803-a229-e1378b9d348f)
 
 
