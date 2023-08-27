@@ -27,4 +27,3 @@ Property ID
 Here, I'll walk you through the HTML configuration I implemented on the website to effectively extract data using Google Analytics 4.
 ![Captura desde 2023-08-27 00-54-40](https://github.com/18ezequiel/test-winclap/assets/107936664/15719b14-ee27-40ce-a43a-208c371caca1)
 
-Feel free to use this Markdown structure for your README. Make sure to replace the content with your actual explanations and details.
