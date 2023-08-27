@@ -1,0 +1,17 @@
+# Use the Apache Airflow base image as the starting point
+FROM apache/airflow:2.7.0
+
+# Copy the JSON credentials file to the container's working directory
+COPY ga-analytics-397004-c6f5acdcbd7a.json .
+
+# Define the GOOGLE_APPLICATION_CREDENTIALS environment variable
+ENV GOOGLE_APPLICATION_CREDENTIALS ./ga-analytics-397004-c6f5acdcbd7a.json
+
+# Copy the requirements.txt file to the container's working directory
+COPY requirements.txt .
+
+# Install the packages listed in requirements.txt
+RUN pip install -r requirements.txt
+
+
+

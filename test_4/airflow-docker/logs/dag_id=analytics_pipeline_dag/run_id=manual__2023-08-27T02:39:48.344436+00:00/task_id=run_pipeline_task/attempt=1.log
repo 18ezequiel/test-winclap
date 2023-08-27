@@ -1,0 +1,21 @@
+[2023-08-27T02:39:56.895+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: analytics_pipeline_dag.run_pipeline_task manual__2023-08-27T02:39:48.344436+00:00 [queued]>
+[2023-08-27T02:39:56.899+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: analytics_pipeline_dag.run_pipeline_task manual__2023-08-27T02:39:48.344436+00:00 [queued]>
+[2023-08-27T02:39:56.899+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-08-27T02:39:56.908+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): run_pipeline_task> on 2023-08-27 02:39:48.344436+00:00
+[2023-08-27T02:39:56.919+0000] {standard_task_runner.py:57} INFO - Started process 189 to run task
+[2023-08-27T02:39:56.921+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'analytics_pipeline_dag', 'run_pipeline_task', 'manual__2023-08-27T02:39:48.344436+00:00', '--job-id', '63', '--raw', '--subdir', 'DAGS_FOLDER/my_proyects/my_first_dag.py', '--cfg-path', '/tmp/tmpyk06aw8a']
+[2023-08-27T02:39:56.922+0000] {standard_task_runner.py:85} INFO - Job 63: Subtask run_pipeline_task
+[2023-08-27T02:39:56.953+0000] {task_command.py:415} INFO - Running <TaskInstance: analytics_pipeline_dag.run_pipeline_task manual__2023-08-27T02:39:48.344436+00:00 [running]> on host 9d565e5ffcd5
+[2023-08-27T02:39:57.002+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='analytics_pipeline_dag' AIRFLOW_CTX_TASK_ID='run_pipeline_task' AIRFLOW_CTX_EXECUTION_DATE='2023-08-27T02:39:48.344436+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-08-27T02:39:48.344436+00:00'
+[2023-08-27T02:39:57.928+0000] {logging_mixin.py:151} INFO -                                    averageSessionDuration  ...  week_start_date
+week sessionMedium country                                 ...                 
+34   (none)        Argentina                   362.648834  ...       2023-08-18
+                   United Kingdom               65.142372  ...       2023-08-18
+     referral      United Kingdom             1766.939941  ...       2023-08-18
+                   Argentina                    15.226477  ...       2023-08-18
+
+[4 rows x 3 columns]
+[2023-08-27T02:40:03.763+0000] {python.py:194} INFO - Done. Returned value was: None
+[2023-08-27T02:40:03.773+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=analytics_pipeline_dag, task_id=run_pipeline_task, execution_date=20230827T023948, start_date=20230827T023956, end_date=20230827T024003
+[2023-08-27T02:40:03.812+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-08-27T02:40:03.825+0000] {taskinstance.py:2784} INFO - 0 downstream tasks scheduled from follow-on schedule check

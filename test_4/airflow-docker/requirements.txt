@@ -1,0 +1,6 @@
+google-auth
+google-analytics-data
+google-cloud-bigquery
+apache-airflow
+pandas
+numpy
