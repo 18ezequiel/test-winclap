@@ -46,7 +46,7 @@ In summary, the SQL query transforms raw Google Analytics data into a meaningful
 ![Captura desde 2023-08-27 02-02-50](https://github.com/18ezequiel/test-winclap/assets/107936664/2fb964f5-5d71-4e60-93c3-c337e94a7490)
 
 
-
+# Links
 
 To conclude, I will provide the link to access the project permissions. These permissions should be placed within the directory "test_4/airflow-docker". 
 
