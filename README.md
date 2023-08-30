@@ -2,10 +2,6 @@
 
 How I Completed Test Number 4
 
-## Authentication and Credentials Setup
-
-In this section, I will demonstrate how I set up the authentication and credentials for the project.
-
 ## Google Analytics Account Access Management
 
 I'll explain how I managed the access to the Google Analytics account to ensure a secure workflow.
