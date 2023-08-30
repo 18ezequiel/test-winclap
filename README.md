@@ -2,16 +2,6 @@
 
 How I Completed Test Number 4
 
-## Google Analytics Account Access Management
-
-I'll explain how I managed the access to the Google Analytics account to ensure a secure workflow.
-![Captura desde 2023-08-27 00-52-30](https://github.com/18ezequiel/test-winclap/assets/107936664/cccdbf95-dc68-4548-81a1-bef57e96ef11)
-
-Property ID
-
-![Captura desde 2023-08-27 00-53-29](https://github.com/18ezequiel/test-winclap/assets/107936664/9d6e9afc-a5c2-4803-a229-e1378b9d348f)
-
-
 ## HTML Configuration for Data Extraction with Google Analytics 4
 
 Here, I'll walk you through the HTML configuration I implemented on the website to effectively extract data using Google Analytics 4.
